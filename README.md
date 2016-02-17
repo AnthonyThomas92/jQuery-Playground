@@ -1,2 +1,2 @@
 # jQuery-Playground
-Playground for jQuery challenges
+Playground for jQuery functions/chanllenges.
